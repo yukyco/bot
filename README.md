@@ -1,7 +1,4 @@
 # botfortwitter
-is by EasyBotter
+by dotinstall lesson 
 
-forked by yukyco for lesson
-
-if you want to learn about EasyBotter , 
-go to : http://pha22.net/twitterbot/2.0/files.php
+it is not perfect bot.
